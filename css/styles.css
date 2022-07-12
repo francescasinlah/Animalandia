@@ -1,0 +1,18 @@
+header{
+    display: flex;
+    height: 70px;
+    background-color: purple;
+    justify-content: space-between;
+  
+
+}
+
+.logo{
+    display:flex;
+}
+
+.logo img{
+    height: 115px;
+}
+
+
