@@ -1,6 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;0,700;1,300&display=swap');
+header{
+    display: flex;
+    height: 70px;
+    background-color: purple;
+    justify-content: space-between;
+  
 
+}
 
-body{
-    font-family: 'Poppins', sans-serif;
+.logo{
+    display:flex;
+}
+
+.logo img{
+    height: 115px;
 }
