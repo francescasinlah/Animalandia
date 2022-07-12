@@ -1,14 +1,22 @@
+body{
+    font-family: Nunito Sans;
+    margin: 0;
+
+}
+
 header{
     display: flex;
     height: 70px;
+    width: 332.35px;
     background-color: purple;
     justify-content: space-between;
-  
-
+    align-items: center;
+    padding: 10px;
 }
 
 .logo{
     display:flex;
+    align-items: center;
 }
 
 .logo img{
